@@ -39,7 +39,7 @@ https://www.apachefriends.org/download.html
 
 2. Open KSWEB app & start the server. </br>
 
-3. Now Open `JioTV` Below Link :
+3. Now Open `CTV` Below Link :
 
 ```
 
@@ -49,7 +49,7 @@ http://localhost:8080/JioTv/
 
 4. First Login with your credentials.
 
-5. Now, You Will See all Jio Channels. </br>
+5. Now, You Will See all CTV Channels. </br>
 
 6. Click on Channel and Play. </br>
 
