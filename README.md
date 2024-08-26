@@ -1,5 +1,5 @@
 
-<p align='center'><img src="https://www.ctvstore.net/img/logo.png" width="120" ></p>
+<p align='center'><img src="https://www.ctvstore.net/img/logo.png" width="220" ></p>
 
 
 
